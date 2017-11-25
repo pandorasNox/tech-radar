@@ -66,7 +66,6 @@ ASSESS:
 - phonix
 - Laravel
 - Lumen
-- ElasticSearch vs Solr
 - headless xyz (CMS)
 - gocd
 - pipeline as code
@@ -74,13 +73,17 @@ ASSESS:
 - pyhton
 - rkt (rockit)
 - vagrant
-- vault
-- micro frontend
-- tailor.js
+- HashiCorp Vault
 - Nodemailer
 - Keycloak
 - auth0.com
 - Koa
+
+examine:
+- pa11y
+- micro frontend
+- ElasticSearch vs Solr
+- tailor.js
 - next.js
 
 Hold:
