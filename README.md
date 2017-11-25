@@ -47,6 +47,7 @@ Adapted:
 - digitalocean
 - styled-components
 - JavaScript (ES5, ES6, ES2016, ES2017)
+- Yarn
 
 Trial:
 - php
@@ -56,21 +57,23 @@ ASSESS:
 - Gatsby.js
 - rabbitmq
 - serverless (functions)
-- Enzym
+- Enzyme
 - graphql
 - Postgres
 - GoogleChrome/puppeteer
+- Prometheus
 - Kontena
 - Kubernetes
-- elixir
-- phonix
+- Elixir
+- Phoenix
 - Laravel
 - Lumen
 - headless xyz (CMS)
 - gocd
 - pipeline as code
 - webtask.io
-- pyhton
+- AWS Lambda
+- Pyhton 3
 - rkt (rockit)
 - vagrant
 - HashiCorp Vault
@@ -78,13 +81,33 @@ ASSESS:
 - Keycloak
 - auth0.com
 - Koa
+- RxJS
+- Ansible
+- serverless architectures
 
 examine:
-- pa11y
+- Consul (!!)
+- pa11y (!)
 - micro frontend
 - ElasticSearch vs Solr
 - tailor.js
 - next.js
+- Scikit-learn
+- Serverless Framework
+- Talisman
+- Terraform
+- Android-x86
+- bottledwater-pg
+- claudiajs
+- Spinnaker
+- OpenTracing
+- Amazon API Gateway
+- Electron
+- Kafka / Kafka Streams
+- Ember.js
+- ReactiveX
+- caffe.berkeleyvision.org
+- Keras
 
 Hold:
 - golang
