@@ -108,6 +108,7 @@ examine:
 - ReactiveX
 - caffe.berkeleyvision.org
 - Keras
+- Kong (getkong.org)
 
 Hold:
 - golang
