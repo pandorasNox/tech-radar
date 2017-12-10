@@ -109,6 +109,7 @@ examine:
 - caffe.berkeleyvision.org
 - Keras
 - Kong (getkong.org)
+- mesos.apache.org
 
 Hold:
 - golang
