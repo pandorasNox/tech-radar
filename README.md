@@ -124,3 +124,4 @@ avoid:
 - from draft to final first version
 - arraging this as volums like thoughtworks
 - maybe introduce "watch/observe" ring
+- experiement templates ??!!
