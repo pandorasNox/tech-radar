@@ -110,7 +110,7 @@ examine:
 - Keras
 - Kong (getkong.org)
 - mesos.apache.org
-- goss
+- goss / serverspec
 
 Hold:
 - golang
