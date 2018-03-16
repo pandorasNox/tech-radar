@@ -30,16 +30,17 @@ Adapted:
 - docker
 - nodejs
 - reactjs / react-native
+    - create-react-app / create-react-native-app
+- redux
 - mongodb
 - MySQL
 - nginx
 - HAProxy
 - Express.JS
-- redux
 - nightwatch.js
 - selenium / grid
 - API driven
-- static site generator / JAMStack
+- static site generators / JAMStack
 - jest
 - slack
 - jira
@@ -52,9 +53,10 @@ Adapted:
 Trial:
 - php
 - symfony
+- Gatsby.js
+- TensorFlow
 
 ASSESS:
-- Gatsby.js
 - rabbitmq
 - serverless (functions)
 - Enzyme
@@ -84,6 +86,7 @@ ASSESS:
 - RxJS
 - Ansible
 - serverless architectures
+- Electron
 
 examine:
 - Consul (!!)
@@ -102,7 +105,6 @@ examine:
 - Spinnaker
 - OpenTracing
 - Amazon API Gateway
-- Electron
 - Kafka / Kafka Streams
 - Ember.js
 - ReactiveX
