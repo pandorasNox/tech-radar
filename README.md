@@ -113,6 +113,7 @@ examine:
 - Kong (getkong.org)
 - mesos.apache.org
 - goss / serverspec
+- rocket.chat
 
 Hold:
 - golang
