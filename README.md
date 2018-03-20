@@ -83,6 +83,7 @@ ASSESS:
 - Keycloak
 - auth0.com
 - Koa
+- LoopBack
 - RxJS
 - Ansible
 - serverless architectures
