@@ -115,6 +115,7 @@ examine:
 - mesos.apache.org
 - goss / serverspec
 - rocket.chat
+- openstack
 
 Hold:
 - golang
