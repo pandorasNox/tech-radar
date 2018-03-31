@@ -51,27 +51,30 @@ Adapted:
 - Yarn
 
 Trial:
+- rabbitmq
+- Consumer-Driven Contracts
 - php
 - symfony
-- Gatsby.js
+- Gatsby.js / react-static
 - TensorFlow
+- Postgres
 
 ASSESS:
-- rabbitmq
+- Elixir
+- gocd
+- Kontena
+- RxJS
+- Ansible
+- Kubernetes
+- Phoenix
 - serverless (functions)
 - Enzyme
 - graphql
-- Postgres
 - GoogleChrome/puppeteer
 - Prometheus
-- Kontena
-- Kubernetes
-- Elixir
-- Phoenix
 - Laravel
 - Lumen
 - headless xyz (CMS)
-- gocd
 - pipeline as code
 - webtask.io
 - AWS Lambda
@@ -84,8 +87,6 @@ ASSESS:
 - auth0.com
 - Koa
 - LoopBack
-- RxJS
-- Ansible
 - serverless architectures
 - Electron
 
