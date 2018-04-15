@@ -64,6 +64,7 @@ ASSESS:
 - gocd
 - Kontena
 - RxJS
+- elm
 - Ansible
 - Kubernetes
 - Phoenix
