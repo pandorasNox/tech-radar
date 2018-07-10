@@ -28,6 +28,7 @@ zalando:
 
 Adapted:
 - docker
+- kubernetes
 - nodejs
 - reactjs / react-native
     - create-react-app / create-react-native-app
@@ -49,8 +50,13 @@ Adapted:
 - styled-components
 - JavaScript (ES5, ES6, ES2016, ES2017)
 - Yarn
+- pipeline as code
+- Gitlab
 
 Trial:
+- golang
+- Pyhton 3
+- pytorch
 - rabbitmq
 - Consumer-Driven Contracts
 - php
@@ -58,15 +64,16 @@ Trial:
 - Gatsby.js / react-static
 - TensorFlow
 - Postgres
+- ansible
+- vagrant
 
 ASSESS:
 - Elixir
 - gocd
 - Kontena
 - RxJS
+- ReasonML
 - elm
-- Ansible
-- Kubernetes
 - Phoenix
 - serverless (functions)
 - Enzyme
@@ -76,12 +83,9 @@ ASSESS:
 - Laravel
 - Lumen
 - headless xyz (CMS)
-- pipeline as code
 - webtask.io
 - AWS Lambda
-- Pyhton 3
 - rkt (rockit)
-- vagrant
 - HashiCorp Vault
 - Nodemailer
 - Keycloak
@@ -120,7 +124,6 @@ examine:
 - openstack
 
 Hold:
-- golang
 - rust
 - metalsmith
 
