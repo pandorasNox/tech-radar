@@ -30,7 +30,7 @@ zalando:
 Adapted:
 - Languages
     - golang
-    - JavaScript (ES5, ES6, ES2016, ES2017)
+    - JavaScript (ES5, ES6, ES2016, ES2017, ES2018)
     - elm
 - Frameworks / libraries
     - reactjs / react-native
