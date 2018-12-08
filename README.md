@@ -19,53 +19,63 @@ zalando:
 
 ## My quadrants
 - Languages
-- Frameworks
+- Frameworks / libraries
 - Infrastructure / Tools / platforms
 - techniques
 - Data Management
+- communication / project management
 
 ## ring draft classification
 
 Adapted:
-- docker
-- kubernetes
-- nodejs
-- reactjs / react-native
-    - create-react-app / create-react-native-app
-- redux
-- mongodb
-- MySQL
-- nginx
-- HAProxy
-- Express.JS
-- nightwatch.js
-- selenium / grid
-- API driven
-- static site generators / JAMStack
-- jest
-- slack
-- jira
-- trello
-- digitalocean
-- styled-components
-- JavaScript (ES5, ES6, ES2016, ES2017)
-- Yarn
-- pipeline as code
-- Gitlab
+- Languages
+    - golang
+    - JavaScript (ES5, ES6, ES2016, ES2017)
+    - elm
+- Frameworks / libraries
+    - reactjs / react-native
+    - redux
+    - Express.JS
+    - nightwatch.js
+    - styled-components
+- Infrastructure / Tools / platforms
+    - kubernetes
+    - docker
+    - Gitlab
+    - ansible
+    - digitalocean / hetzner
+    - vagrant
+    - nginx / HAProxy
+    - selenium / grid
+    - nodejs
+    - Yarn / npm
+    - jest
+    - create-react-app / create-react-native-app (boilerplate tooling ???)
+    - GatsbyJS
+- techniques
+    - pipeline as code
+    - API driven
+    - event driven
+    - JAMStack / static sites
+- communication / project management
+    - slack
+    - jira
+    - trello
+    - whiteboard
+    - talking
+- Data Management
+    - mongodb
+    - MySQL
 
 Trial:
-- golang
 - Pyhton 3
 - pytorch
 - rabbitmq
 - Consumer-Driven Contracts
-- php
-- symfony
 - Gatsby.js / react-static
 - TensorFlow
 - Postgres
-- ansible
-- vagrant
+
 
 ASSESS:
 - Elixir
@@ -73,7 +83,6 @@ ASSESS:
 - Kontena
 - RxJS
 - ReasonML
-- elm
 - Phoenix
 - serverless (functions)
 - Enzyme
@@ -126,12 +135,13 @@ examine:
 Hold:
 - rust
 - metalsmith
+- php / symfony
 
 avoid:
 - magento 1
 
 ## ToDo:
 - from draft to final first version
-- arraging this as volums like thoughtworks
+- arraging this as volums like thoughtworks ?!
 - maybe introduce "watch/observe" ring
 - experiement templates ??!!
