@@ -4,6 +4,7 @@ Personal tech-radar to keep track of my technology choices / decisions.
 Inspired by http://thoughtworks.com/radar/
 https://www.thoughtworks.com/radar/faq
 
+
 ## quadrants examples
 thoughtworks:
 - tools
@@ -17,6 +18,7 @@ zalando:
 - Data Management
 - Languages
 
+
 ## My quadrants
 - Languages
 - Frameworks / libraries
@@ -24,6 +26,7 @@ zalando:
 - techniques
 - Data Management
 - communication / project management
+
 
 ## ring draft classification
 
@@ -42,6 +45,7 @@ Adapted:
     - kubernetes
     - docker
     - Gitlab
+    - Prometheus
     - ansible
     - digitalocean / hetzner
     - vagrant
@@ -53,6 +57,7 @@ Adapted:
     - create-react-app / create-react-native-app (boilerplate tooling ???)
     - GatsbyJS
 - techniques
+    - configuration as code
     - pipeline as code
     - API driven
     - event driven
@@ -67,7 +72,11 @@ Adapted:
     - mongodb
     - MySQL
 
+
 Trial:
+- Terraform
+- HashiCorp Vault
+- OpenTracing
 - Pyhton 3
 - pytorch
 - rabbitmq
@@ -78,9 +87,9 @@ Trial:
 
 
 ASSESS:
+- rust
 - Elixir
 - gocd
-- Kontena
 - RxJS
 - ReasonML
 - Phoenix
@@ -88,14 +97,11 @@ ASSESS:
 - Enzyme
 - graphql
 - GoogleChrome/puppeteer
-- Prometheus
 - Laravel
 - Lumen
 - headless xyz (CMS)
 - webtask.io
 - AWS Lambda
-- rkt (rockit)
-- HashiCorp Vault
 - Nodemailer
 - Keycloak
 - auth0.com
@@ -104,7 +110,13 @@ ASSESS:
 - serverless architectures
 - Electron
 
+
 examine:
+- gitops
+- argocd
+- Spinnaker
+- concourse-ci
+- Kafka / Kafka Streams
 - Consul (!!)
 - pa11y (!)
 - micro frontend
@@ -114,14 +126,10 @@ examine:
 - Scikit-learn
 - Serverless Framework
 - Talisman
-- Terraform
 - Android-x86
 - bottledwater-pg
 - claudiajs
-- Spinnaker
-- OpenTracing
 - Amazon API Gateway
-- Kafka / Kafka Streams
 - Ember.js
 - ReactiveX
 - caffe.berkeleyvision.org
@@ -132,16 +140,19 @@ examine:
 - rocket.chat
 - openstack
 
+
 Hold:
-- rust
 - metalsmith
 - php / symfony
 
-avoid:
+
+Avoid:
 - magento 1
+
 
 ## ToDo:
 - from draft to final first version
 - arraging this as volums like thoughtworks ?!
 - maybe introduce "watch/observe" ring
 - experiement templates ??!!
+
