@@ -43,6 +43,11 @@ Adapted:
     - styled-components
 - Infrastructure / Tools / platforms
     - kubernetes
+        - kubeadm
+        - ingress
+        - registry
+        - tilt
+        - kubed
     - docker
     - Gitlab
     - Prometheus
@@ -57,6 +62,7 @@ Adapted:
     - create-react-app / create-react-native-app (boilerplate tooling ???)
     - GatsbyJS
 - techniques
+    - cloud-native development
     - configuration as code
     - pipeline as code
     - API driven
@@ -71,6 +77,7 @@ Adapted:
 - Data Management
     - mongodb
     - MySQL
+    - Postgres
 
 
 Trial:
@@ -83,11 +90,11 @@ Trial:
 - Consumer-Driven Contracts
 - Gatsby.js / react-static
 - TensorFlow
-- Postgres
 
 
 ASSESS:
 - rust
+- TypeScript
 - Elixir
 - gocd
 - RxJS
@@ -97,8 +104,6 @@ ASSESS:
 - Enzyme
 - graphql
 - GoogleChrome/puppeteer
-- Laravel
-- Lumen
 - headless xyz (CMS)
 - webtask.io
 - AWS Lambda
@@ -117,8 +122,9 @@ examine:
 - Spinnaker
 - concourse-ci
 - Kafka / Kafka Streams
-- Consul (!!)
+- Keras
 - pa11y (!)
+- Consul
 - micro frontend
 - ElasticSearch vs Solr
 - tailor.js
@@ -133,7 +139,6 @@ examine:
 - Ember.js
 - ReactiveX
 - caffe.berkeleyvision.org
-- Keras
 - Kong (getkong.org)
 - mesos.apache.org
 - goss / serverspec
@@ -143,7 +148,10 @@ examine:
 
 Hold:
 - metalsmith
-- php / symfony
+- php
+    - symfony
+    - Laravel
+    - Lumen
 
 
 Avoid:
